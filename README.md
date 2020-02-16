@@ -10,8 +10,10 @@ De gemiddelde runtime op batterij is rond de 10uur, maar daar zijn geen motoren 
 
 Ik heb op [AliExpress](<https://www.aliexpress.com>) wel wat mogelijke powerbanks voor redelijke prijzen gevonden (let wel op dat het output voltage tussen 6 en 20V moet blijven.
 
-- [ROCK QC3 powerbank 10A](<https://www.aliexpress.com/item/4000040465626.html?spm=a2g0o.productlist.0.0.5aa4fc138d7akw&algo_pvid=52b30fad-e2b2-48bc-9deb-97f8a324fa0a&algo_expid=52b30fad-e2b2-48bc-9deb-97f8a324fa0a-0&btsid=0be3743615818484143618356e8a4f&ws_ab_test=searchweb0_0,searchweb201602_,searchweb201603_>)
-- [Xiaomi MI Powerbank 10A](<https://www.aliexpress.com/item/4000043404704.html?spm=a2g0o.productlist.0.0.5aa4fc138d7akw&algo_pvid=52b30fad-e2b2-48bc-9deb-97f8a324fa0a&algo_expid=52b30fad-e2b2-48bc-9deb-97f8a324fa0a-2&btsid=0be3743615818484143618356e8a4f&ws_ab_test=searchweb0_0,searchweb201602_,searchweb201603_>)
+- [ROCK QC3 powerbank 10ah](<https://www.aliexpress.com/item/4000040465626.html?spm=a2g0o.productlist.0.0.5aa4fc138d7akw&algo_pvid=52b30fad-e2b2-48bc-9deb-97f8a324fa0a&algo_expid=52b30fad-e2b2-48bc-9deb-97f8a324fa0a-0&btsid=0be3743615818484143618356e8a4f&ws_ab_test=searchweb0_0,searchweb201602_,searchweb201603_>)
+- [Xiaomi MI Powerbank 10ah](<https://www.aliexpress.com/item/4000043404704.html?spm=a2g0o.productlist.0.0.5aa4fc138d7akw&algo_pvid=52b30fad-e2b2-48bc-9deb-97f8a324fa0a&algo_expid=52b30fad-e2b2-48bc-9deb-97f8a324fa0a-2&btsid=0be3743615818484143618356e8a4f&ws_ab_test=searchweb0_0,searchweb201602_,searchweb201603_>)
+- [Baseus 10ah plug-in](<https://www.aliexpress.com/item/33051393901.html?spm=a2g0o.productlist.0.0.5aa4fc138d7akw&algo_pvid=52b30fad-e2b2-48bc-9deb-97f8a324fa0a&algo_expid=52b30fad-e2b2-48bc-9deb-97f8a324fa0a-7&btsid=0be3743615818484143618356e8a4f&ws_ab_test=searchweb0_0,searchweb201602_,searchweb201603_>)
+- [Xiaomi redmi 20ah](<https://www.aliexpress.com/item/32850936433.html?spm=a2g0o.productlist.0.0.5aa4fc138d7akw&algo_pvid=52b30fad-e2b2-48bc-9deb-97f8a324fa0a&algo_expid=52b30fad-e2b2-48bc-9deb-97f8a324fa0a-11&btsid=0be3743615818484143618356e8a4f&ws_ab_test=searchweb0_0,searchweb201602_,searchweb201603_>)
 
 Kunnen we powerbanks stacken / serieel gebruiken?
 
