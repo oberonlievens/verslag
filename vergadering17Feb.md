@@ -72,4 +72,20 @@ Oberon maakt template klaar en maakt een wordonline
 
 We zorgen dat dit bestand volledig inorde is tegen vrijdag om eventuele fouten op te vangen
 
-### Onderzoeksvragen
+### Titel en subtitel
+
+ - smart frigobox
+ - realiseren van een smartfrigobox a.d.v. Arduino
+
+### Onderzoeksvragen:
+
+- Hoe wordt een rijdende frigobox met smart-functies gerealiseerd a.d.v. arduino?
+    - Wat wordt er verstaan onder smart-functies?
+    - Waarom arduino boven andere microcontrollers
+    - Waarom een smart-frigobox?
+    - Hoe kunnen we de frigobox een GSM laten volgen?
+    - Wat is de beste methode om connectiviteit tussen arduino en GSM te voorzien
+
+### Doelstelling 2Maart:
+- snap rover laten rijden met arduino
+- 
