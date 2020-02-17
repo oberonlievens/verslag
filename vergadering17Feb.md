@@ -1,5 +1,8 @@
 # vergadering 17 Februari
 
+tijdens deze vergadering op Maandag 17 Februari van 11u20 tot 13u bespreken we alle puntjes van vorige vergaderingen en bespreken we nieuwe puntjes.
+Ook stellen we het 1ste document zo veel mogelijk op.
+
 ## punten van vorige vergaderingen:
 
 ### MDF
