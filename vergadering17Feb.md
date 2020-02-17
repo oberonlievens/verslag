@@ -46,3 +46,27 @@ Elian bekeek opties om een applicatie te gebruiken:
 - dit is mogelijk, ik heb al een klein voorbeeldje gemaakt
 - bluetooth is mogelijk om te implementeren
 - De app moeten we pas beginnen ontwikkelen nadat een prototype staat.
+
+## Nieuwe puntjes
+
+### Opmeten frigobox
+
+Dries stuurt vanavond bestand door
+
+### speeltje Mario
+
+Dries test vanavond de SNAP ROVER uit en deelt de resultaten
+
+### Power source
+
+Dries bekijkt optie thuis voor powersource
+
+### indienen eerste versie verslag
+
+#### indienen tegen 23/02/2020
+
+Oberon maakt template klaar en maakt een wordonline
+
+We zorgen dat dit bestand volledig inorde is tegen vrijdag om eventuele fouten op te vangen
+
+### Onderzoeksvragen
