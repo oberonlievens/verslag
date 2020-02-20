@@ -19,8 +19,8 @@ Hier vind je de originele Figma file waarin het ontwerp van de app gebouwd werd:
 
 ### sources gebruikt voor app
 
-<https://javatutorial.net/connect-android-device-android-studio>
-<https://www.youtube.com/watch?v=nAcTO1LELN0>
+ - <https://javatutorial.net/connect-android-device-android-studio>
+ - <https://www.youtube.com/watch?v=nAcTO1LELN0>
 
 ## motoren
 
