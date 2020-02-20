@@ -4,7 +4,9 @@ Dit is basically onze .docx in een .md formaat
 
 ## inleiding
 
-inleiding hier
+In dit rapport wordt onderzocht hoe aan de hand van een Arduino en een smartphone app een zelfrijdende smart-frigobox kan gerealiseerd worden.
+
+Er wordt helemaal vanaf 0 gestart. Er wordt gezocht naar geschikte methodes om de smartphone app te verbinden aan de Arduino en hoe de zelfrijdende frigobox kan gerealiseerd worden. Het einddoel is om een helemaal automatisch zelfrijdende frigobox te bekomen die kan bestuurd worden met een Smartphone app. In de smartphone app zitten functies zoals temperatuur opmeten en GPS-coordinaten opvolgen. Dit zou ontwikkeld worden in een tijdspanne van 12 weken vanaf 9 februari.
 
 ## App
 
