@@ -4,6 +4,8 @@ Dit is basically onze .docx in een .md formaat
 
 ## inleiding
 
+inleiding hier
+
 ## App
 
 ### Features van de App
