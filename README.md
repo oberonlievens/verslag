@@ -1,6 +1,8 @@
 # verslag
 
-A repo for the documentation of the project
+Dit is basically onze .docx in een .md formaat
+
+## inleiding
 
 ## App
 
