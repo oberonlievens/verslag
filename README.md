@@ -4,6 +4,22 @@ A repo for the documentation of the project
 
 ## App
 
+### Features of the App
+
+ - vergrendelen & ontgrendelen van de frigobox (via bluetooth of RFID)
+ - connecteren met frigobox via GSM / App
+ - volgen via app / signaal
+
+### Design van de app
+
+Hier vind je de originele Figma file waarin het ontwerp van de app gebouwd werd:
+<https://www.figma.com/file/eEKTlIOeK6VJ5IYxP0VTZK/FrigoboxApp?node-id=0%3A1>
+
+### sources gebruikt voor app
+
+<https://javatutorial.net/connect-android-device-android-studio>
+<https://www.youtube.com/watch?v=nAcTO1LELN0>
+
 ## motoren
 
 ## electronica
