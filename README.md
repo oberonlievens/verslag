@@ -6,11 +6,12 @@ Dit is basically onze .docx in een .md formaat
 
 ## App
 
-### Features of the App
+### Features van de App
 
- - vergrendelen & ontgrendelen van de frigobox (via bluetooth of RFID)
- - connecteren met frigobox via GSM / App
- - volgen via app / signaal
+ - checken of bluetooth en GPS aanstaan -> zoniet, deze aanzetten.
+ - connecteren met arduino via GSM / App
+ - doosturen van geolocatie gegevens naar arduino via bluetooth.
+ - vergrendelen & ontgrendelen van de frigobox (via bluetooth of NFC).
 
 ### Design van de app
 
