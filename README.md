@@ -15,8 +15,7 @@ Dit is basically onze .docx in een .md formaat
 
 ### Design van de app
 
-Hier vind je de originele Figma file waarin het ontwerp van de app gebouwd werd:
-<https://www.figma.com/file/eEKTlIOeK6VJ5IYxP0VTZK/FrigoboxApp?node-id=0%3A1>
+Hier vind je de originele Figma file waarin het ontwerp van de app gebouwd werd: [Figma file](<https://www.figma.com/file/eEKTlIOeK6VJ5IYxP0VTZK/FrigoboxApp?node-id=0%3A1>)
 
 ### sources gebruikt voor app
 
@@ -24,6 +23,8 @@ Hier vind je de originele Figma file waarin het ontwerp van de app gebouwd werd:
  - <https://www.youtube.com/watch?v=nAcTO1LELN0>
 
 ## motoren
+
+### onderzoek naar motoren
 
 ### Onderzoek naar power voor arduino / motoren:
 
