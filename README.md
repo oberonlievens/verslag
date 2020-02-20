@@ -2,6 +2,12 @@
 
 A repo for the documentation of the project
 
+## App
+
+## motoren
+
+## electronica
+
 ## Onderzoek naar power voor arduino / motoren:
 
 Arduino Mega en Uno kunnen beide gepowered worden met een spanning tussen 7V en 12V (liefst, ze kunnen opzich ook draaien tussen 6 en 20V), een 9V output batterij is dus ideaal. Er bestaan ook laptop powerbanks, die deze spanning kunnen leveren, maar dan heb je snel een kost boven de €100. Een heroplaadbare 9V batterij zou in principe ook kunnen werken, maar 6AA batterijen zouden langer mee moeten gaan.
