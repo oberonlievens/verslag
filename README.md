@@ -2,15 +2,29 @@
 
 Dit is basically onze .docx in een .md formaat
 
-## inleiding
+## Abstract
 
-In dit rapport wordt onderzocht hoe aan de hand van een Arduino en een smartphone app een zelfrijdende smart-frigobox kan gerealiseerd worden in een tijdspanne van 12 weken vanaf 9 februari.
+## Voorwoord
 
-Er wordt helemaal vanaf 0 gestart. Er wordt gezocht naar geschikte methodes om de smartphone app te verbinden aan de Arduino en hoe de zelfrijdende frigobox kan gerealiseerd worden. Het einddoel is om een helemaal automatisch zelfrijdende frigobox te bekomen die kan bestuurd worden met een Smartphone app. In de smartphone app zitten functies zoals temperatuur opmeten en GPS-coordinaten opvolgen. Dit zou ontwikkeld worden in een tijdspanne van 12 weken vanaf 9 februari.
+## Inhoudsopgave
 
-Er zal allereerst onderzocht worden welke microcontroller het beste is om de frigobox-functies te realiseren en besturen, daarna zal bekeken worden welke techniek de meest correcte is om data vanaf een smartphone app door te sturen naar de microcontroller. Eens de juiste technieken onderzocht zijn, worden deze ontwikkeld in functie van het onderzoek. 
+## Figurenlijst
 
-In dit rapport vind je onderzoek naar Electronica, App-functionaliteit en software
+## Codefragmentenlijst
+
+## Begrippenlijst
+
+## Inleiding
+
+In dit rapport wordt onderzocht hoe een zelfrijdende smart-frigobox gerealiseerd kan worden aan de hand van Arduino en een smartphone app. De tijdspanne van dit onderzoek is twaalf weken met als begindatum 9 februari 2020.
+
+De bedoeling van dit project is om de klassieke frigobox te vernieuwen. Het project start vanaf nul. De eerste stap is het ontwerpen van de smart-frigobox. Deze bevat enkele functies waaronder een verbinding tussen een app en Arduino, een volgfunctie, temperatuurmeting en een inventaris. Vervolgens wordt de manier waarop de functionaliteiten tot stand kunnen komen onderzocht. Als laatste stap wordt een prototype gebouwd.
+
+In dit rapport is de belangrijkste onderzoeksmethode een literatuurstudie. De voornaamste bronnen zijn handleidingen om de technische aspecten te begrijpen en te implementeren. Tijdens de opbouw van de frigobox wordt de werking geoptimaliseerd door diverse testen.
+
+Het eerste hoofdstuk beschrijft de opbouw van de frigobox. Vervolgens wordt toegelicht hoe de app werkt. De volgfunctie wordt beschreven in hoofdstuk drie. In een vierde hoofdstuk wordt de temperatuurmeting beschreven. Daarna volgt een hoofdstuk over de inventaris. Als laatste wordt de verbinding tussen de app en de frigobox uitgelegd. In de conclusie wordt verteld of de vooropgestelde doelstellingen behaald zijn en wat de mogelijke verbeterpunten zijn.
+
+## Opbouw
 
 ## App
 
@@ -30,7 +44,7 @@ Hier vind je de originele Figma file waarin het ontwerp van de app gebouwd werd:
  - <https://javatutorial.net/connect-android-device-android-studio>
  - <https://www.youtube.com/watch?v=nAcTO1LELN0>
 
-## motoren
+## Volgfunctie
 
 ### onderzoek naar motoren
 
@@ -55,6 +69,17 @@ Kunnen we powerbanks stacken / serieel gebruiken?
 - <https://www.techradar.com/news/best-portable-laptop-battery-chargers-and-power-banks>
 - <https://forum.arduino.cc/index.php?topic=305175.0>
 
-## electronica
+## Temperatuurmeting
 
+## Inventaris
+
+## Verbinding
+
+## Conclusie
+
+## Literatuurlijst
+
+## Bijlagenoverzicht
+
+## Bijlagen
 
